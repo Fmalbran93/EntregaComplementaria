@@ -1,0 +1,42 @@
+[
+  {
+    "title": "jaasd",
+    "description": "asdas",
+    "category": "asdasd",
+    "price": "1123",
+    "stock": "2",
+    "code": "123asd",
+    "status": true,
+    "id": "f344c4ae-0070-4676-a31c-f6cbe03135c5"
+  },
+  {
+    "title": "jaasd3",
+    "description": "asdas3",
+    "category": "asdasd3",
+    "price": "11233",
+    "stock": "2",
+    "code": "123asd33",
+    "status": true,
+    "id": "fca801de-7e76-4a79-ae51-d8bf7ab41c5e"
+  },
+  {
+    "title": "asdas",
+    "description": "asdasd",
+    "category": "adas",
+    "price": "123123",
+    "stock": "1",
+    "code": "123123asd",
+    "status": true,
+    "id": "87ef6683-30d8-4746-bd25-d053e3fa18eb"
+  },
+  {
+    "title": "asdasdasd",
+    "description": "asdasdasd",
+    "category": "asdsadasd",
+    "price": "123123123",
+    "stock": "1111",
+    "code": "112333333333",
+    "status": true,
+    "id": "20ed05c9-24d2-40a0-a1c6-e5a4df841447"
+  }
+]
